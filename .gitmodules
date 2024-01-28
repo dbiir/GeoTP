@@ -1,0 +1,6 @@
+[submodule "geo_agent"]
+	path = geo_agent
+	url = https://github.com/dbiir/GeoTP_agent.git
+[submodule "geo_middleware"]
+	path = geo_middleware
+	url = https://github.com/dbiir/GeoTP_middleware.git
